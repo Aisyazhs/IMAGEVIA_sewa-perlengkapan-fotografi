@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "755915994773",
+    "project_id": "imagevia2",
+    "storage_bucket": "imagevia2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:755915994773:android:e42199cb6be4851e1bcd9c",
+        "android_client_info": {
+          "package_name": "com.akhir.imagevia2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "755915994773-0uv39acs433gfbo6tm5qsq2a6pf1hvq2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfD6UeZRoFq8Dx7KFg5BccjpLBu_q4h7s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "755915994773-0uv39acs433gfbo6tm5qsq2a6pf1hvq2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
